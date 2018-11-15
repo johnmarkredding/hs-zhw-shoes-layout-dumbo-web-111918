@@ -27,7 +27,6 @@
   width: 960px;
   margin: 0 auto;
   overflow: auto;
-  clear: both;
 }
 [class*="col-"] {
   float: left;
@@ -45,6 +44,9 @@
 }
 .first {
   margin-left: 0;
+}
+.last {
+  margin-bottom: 0;
 }
 ul {
   line-height: 1.185;
