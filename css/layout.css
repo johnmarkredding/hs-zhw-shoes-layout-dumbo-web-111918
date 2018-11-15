@@ -27,6 +27,7 @@
   width: 960px;
   margin: 0 auto;
   overflow: auto;
+  height: 100%;
 }
 [class*="col-"] {
   float: left;
