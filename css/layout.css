@@ -18,10 +18,6 @@
   line-height: 0;
 }
 
-.clear {
-  clear: both;
-}
-
 /* Posititoning Classes */
 .wrapper {
   width: 960px;
@@ -45,5 +41,5 @@
   margin-left: 0;
 }
 ul {
-  line-height: 1.18;
+  line-height: 1.185;
 }
