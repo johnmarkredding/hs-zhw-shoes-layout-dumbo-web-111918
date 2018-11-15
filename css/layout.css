@@ -26,6 +26,7 @@
 .wrapper {
   width: 960px;
   margin: 0 auto;
+  overflow: auto;
 }
 [class*="col-"] {
   float: left;
